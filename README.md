@@ -1,11 +1,19 @@
-<h2 id="move-text">Dni</h2>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <p><title>class="slide-text">This sentence slides by itself from left to right!</title></p>
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <section class="hero">
+    <div class="overlay">
+      <h1 class="headline">Welcome to My Awesome Site</h1>
+      <p>Here’s where the magic happens</p>
+    </div>
+  </section>
 
-<img width="1034" height="292" alt="image" src="https://github.com/user-attachments/assets/3baa8a68-800c-4ffe-9a32-ae9daedf76b9" />
-
-<img width="918" height="584" alt="image" src="https://github.com/user-attachments/assets/f5ed531e-2c9d-4752-a0ae-32a624b189c8" />
-
-<img width="549" height="343" alt="image" src="https://github.com/user-attachments/assets/596455f0-3975-4fe3-b39e-0274a0add062" />
-
-<img width="614" height="1037" alt="image" src="https://github.com/user-attachments/assets/b9bdf91d-321c-45fe-8654-fec08bc14c30" />
-
-
+  <script src="script.js"></script>
+</body>
+</html>
